@@ -34,8 +34,8 @@
 
 预览：
 
-![仪表盘](5min-btc-arbitrage-bot-rust/images/1.jpg)
-![交易历史](5min-btc-arbitrage-bot-rust/images/2.jpg)
+![仪表盘](images/btc-5min-1.jpg)
+![交易历史](images/btc-5min-2.jpg)
 
 ---
 
@@ -48,8 +48,8 @@
 
 预览：
 
-![运行中](polymarket-kalshi-arbitrage-bot/images/1.png)
-![交易日志](polymarket-kalshi-arbitrage-bot/images/2.png)
+![运行中](images/kalshi-arb-1.png)
+![交易日志](images/kalshi-arb-2.png)
 
 ---
 
@@ -60,7 +60,7 @@
 
 预览：
 
-![方向狩猎结果](polymarket-direction-hunting-bot/1.jpg)
+![方向狩猎结果](images/direction-hunting-1.jpg)
 
 ---
 
@@ -71,7 +71,7 @@
 
 预览：
 
-![价差耕作日志](polymarket-spread-farming-bot/1.png)
+![价差耕作日志](images/spread-farming-1.png)
 
 ---
 
@@ -83,8 +83,8 @@
 
 预览：
 
-![跟单配置](polymarket-copy-bot-main/images/1.png)
-![跟单执行](polymarket-copy-bot-main/images/2.png)
+![跟单配置](images/copy-bot-1.png)
+![跟单执行](images/copy-bot-2.png)
 
 ---
 
@@ -96,8 +96,8 @@
 
 预览：
 
-![体育盘界面](polymarket-sportsbetting-bot/images/1.jpg)
-![盘口列表](polymarket-sportsbetting-bot/images/2.jpg)
+![体育盘界面](images/sports-1.jpg)
+![盘口列表](images/sports-2.jpg)
 
 ---
 

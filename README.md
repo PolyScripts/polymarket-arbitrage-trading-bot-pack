@@ -34,8 +34,11 @@ If you want the **full source code**, advanced features, help deploying on a VPS
 
 Preview:
 
-![5min bot dashboard](5min-btc-arbitrage-bot-rust/images/1.jpg)
-![5min bot trade history](5min-btc-arbitrage-bot-rust/images/2.jpg)
+![5min bot dashboard](images/btc-5min-1.jpg)
+![5min bot trade history](images/btc-5min-2.jpg)
+![5min bot order](images/btc-5min-3.jpg)
+![5min bot history](images/btc-5min-4.jpg)
+
 
 ---
 
@@ -48,8 +51,9 @@ Preview:
 
 Preview:
 
-![Kalshi arb running](polymarket-kalshi-arbitrage-bot/images/1.png)
-![Kalshi arb trade log](polymarket-kalshi-arbitrage-bot/images/2.png)
+![Kalshi arb running](images/kalshi-arb-1.png)
+![Kalshi arb trade log](images/kalshi-arb-2.png)
+![Kalshi arb log](images/kalshi-arb-3.png)
 
 ---
 
@@ -60,7 +64,7 @@ Preview:
 
 Preview:
 
-![Direction hunting results](polymarket-direction-hunting-bot/1.jpg)
+![Direction hunting results](images/direction-hunting-1.jpg)
 
 ---
 
@@ -71,7 +75,7 @@ Preview:
 
 Preview:
 
-![Spread farming bot log](polymarket-spread-farming-bot/1.png)
+![Spread farming bot log](images/spread-farming-1.png)
 
 ---
 
@@ -83,8 +87,9 @@ Preview:
 
 Preview:
 
-![Copy bot config](polymarket-copy-bot-main/images/1.png)
-![Copy bot execution](polymarket-copy-bot-main/images/2.png)
+![Copy bot config](images/copy-bot-1.png)
+![Copy bot execution](images/copy-bot-2.png)
+![Copy bot success](images/copy-bot-5.png)
 
 ---
 
@@ -96,8 +101,8 @@ Preview:
 
 Preview:
 
-![Sports UI](polymarket-sportsbetting-bot/images/1.jpg)
-![Sports UI markets](polymarket-sportsbetting-bot/images/2.jpg)
+![Sports UI](images/sports-1.jpg)
+![Sports UI markets](images/sports-2.jpg)
 
 ---
 
