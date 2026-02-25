@@ -1,4 +1,4 @@
-# Polymarket Arbitrage Trading Bot Pack (Copy Trading + Cross‑Market Arb + Low‑Latency Execution)
+# Polymarket Arbitrage Trading Bot Pack ( 5min/15min/1hr arbitrage bot + Copy Trading + Cross‑Market Arb)
 
 **English** | [中文（简体）](README.zh-CN.md)
 

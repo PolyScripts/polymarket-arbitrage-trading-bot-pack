@@ -1,4 +1,4 @@
-# Polymarket 套利交易机器人合集（跟单 + 跨平台套利 + 低延迟执行）
+# Polymarket 套利交易机器人合集（5min/15min btc arbitrage + 跟单 + 跨平台套利）
 
 [English](README.md) | **中文（简体）**
 
